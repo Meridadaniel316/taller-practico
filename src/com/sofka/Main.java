@@ -18,11 +18,8 @@ public class Main {
     public void menuInicial() {
 
         do {
-
             String seleccion = mensajeMenuBienvenida(Repeat);
-
             Repeat = opcionesDinamicasMenu(seleccion);
-
         }
         while (true);
     }

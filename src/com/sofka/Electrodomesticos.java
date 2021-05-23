@@ -34,6 +34,7 @@ public class Electrodomesticos {
         this.procedencia = "Desconocido";
         this.sujeto = "el";
         this.electrodomestico = "Electrodomestico";
+        this.precioAdiccional = 0;
         this.valor = 0;
         seleccionarConsumoElectrodomestico();
         seleccionarProcedenciaElectrodomestico();
